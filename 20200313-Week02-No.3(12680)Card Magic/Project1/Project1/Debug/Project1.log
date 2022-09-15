@@ -1,0 +1,4 @@
+﻿  function.c
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200313-weed02-no.3(12680)card magic\project1\function.c(7): warning C4005: 'max': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: see previous definition of 'max'
+  Project1.vcxproj -> C:\Users\User\OneDrive - 清華大學\大一下\程設二\Assignments\20200313-Weed02-No.3(12680)Card Magic\Project1\Debug\Project1.exe

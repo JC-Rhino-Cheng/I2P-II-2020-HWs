@@ -1,0 +1,5 @@
+﻿  function.c
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200321-mid1-no.1(10966)infix to syntax tree\function.c(8): warning C4013: 'malloc' 未定義; 假設 extern 傳回整數
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200321-mid1-no.1(10966)infix to syntax tree\function.c(45): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200321-mid1-no.1(10966)infix to syntax tree\function.c(57): warning C4013: 'free' 未定義; 假設 extern 傳回整數
+  Project1.vcxproj -> C:\Users\User\OneDrive - 清華大學\大一下\程設二\Assignments\20200321-Mid1-No.1(10966)Infix to syntax tree\Project1\Debug\Project1.exe

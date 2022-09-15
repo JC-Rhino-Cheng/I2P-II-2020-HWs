@@ -1,0 +1,6 @@
+﻿  function.c
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200321-mid1-no.2(10968)prefix to infix\function.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\user\onedrive - 清華大學\大一下\程設二\assignments\20200321-mid1-no.2(10968)prefix to infix\function.c(26): warning C4013: 'free' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  Project1.vcxproj -> C:\Users\User\OneDrive - 清華大學\大一下\程設二\Assignments\20200321-Mid1-No.2(10968)Prefix to infix\Project1\Debug\Project1.exe
